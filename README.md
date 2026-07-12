@@ -27,6 +27,12 @@
 
 <br>
 
+<div align="center">
+<img src="./ferrofluid.svg" width="860" height="250" alt="Featured Projects" />
+</div>
+
+<br>
+
 <table align="center">
 <tr>
 <td width="50%" valign="top">
