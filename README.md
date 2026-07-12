@@ -37,10 +37,6 @@
 <tr>
 <td width="50%" valign="top">
 
-### &#128640; Featured Projects
-
-<br>
-
 **[Digital Twin of Richard Feynman](https://github.com/RajatRawal-06/Digital_Twin_Rag)**
 <br>
 Full stack RAG system reconstructing Feynman's intellectual voice. Tri&#8209;retrieval engine with GraphRAG, Qdrant vector DB, and Hybrid MMR. K&#8209;Means memory profiling adapts responses by user expertise level.
@@ -67,10 +63,6 @@ Multi&#8209;layer defense framework protecting LLMs against crescendo&#8209;styl
 
 </td>
 <td width="50%" valign="top">
-
-### &#9889; More Projects
-
-<br>
 
 **[MACS Unified Compressor](https://github.com/RajatRawal-06/macs-hybrid-compressor)**
 <br>
