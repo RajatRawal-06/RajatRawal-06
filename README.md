@@ -22,7 +22,7 @@
 </div>
 
 <div align="center">
-<img src="./aurora.svg" width="860" alt="Aurora Header" />
+<img src="./aurora.svg" width="860" height="300" alt="Aurora Header" />
 </div>
 
 <br>
