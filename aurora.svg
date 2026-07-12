@@ -16,12 +16,12 @@
     </linearGradient>
 
     <!-- Strong Blur -->
-    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%">
+    <filter id="blur" filterUnits="userSpaceOnUse" x="-200" y="-100" width="1260" height="500">
       <feGaussianBlur stdDeviation="60" result="blur"/>
     </filter>
     
     <!-- Text Shadow -->
-    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+    <filter id="shadow" filterUnits="userSpaceOnUse" x="-50" y="-50" width="960" height="400">
       <feDropShadow dx="0" dy="2" stdDeviation="4" flood-color="#000000" flood-opacity="0.8"/>
     </filter>
 
