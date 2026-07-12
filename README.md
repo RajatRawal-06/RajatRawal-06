@@ -28,7 +28,7 @@
 <br>
 
 <div align="center">
-<img src="./ferrofluid.svg" width="860" height="250" alt="Featured Projects" />
+<img src="./ferrofluid-wisps.svg" width="860" height="250" alt="Featured Projects" />
 </div>
 
 <br>
