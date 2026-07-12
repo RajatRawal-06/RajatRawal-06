@@ -14,7 +14,7 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 OUT = os.path.join(HERE, "..", "info-card.svg")
 STATIC = bool(os.environ.get("STATIC"))
 
-W, H = 480, 396
+W, H = 480, 416
 PAD = 20
 TITLEBAR_H = 30
 KEY_X = PAD
@@ -49,7 +49,7 @@ ROWS = [
     ("host",),
     ("kv", "Now", "Open Source Contributor @ GSSoC 2026"),
     ("kv", "Edu", "B.Tech CSE, DTU '29"),
-    ("kv", "Focus", "AI/ML · Deep Learning · NLP"),
+    ("kv", "Focus", "AI/ML \u00b7 Deep Learning \u00b7 NLP"),
     ("gap",),
     ("sec", "Stack"),
     ("kv", "Languages", "Python, C, C++, SQL"),
@@ -60,8 +60,9 @@ ROWS = [
     ("gap",),
     ("sec", "Highlights"),
     ("bul", "Hackathon Grand Finalist (Top 25/350+)"),
-    ("bul", "Deep Learning Specialization · Andrew Ng"),
+    ("bul", "Deep Learning Specialization \u00b7 Andrew Ng"),
     ("bul", "Digital Twin RAG (GraphRAG + Qdrant)"),
+    ("bul", "ML Specialization \u00b7 Andrew Ng"),
 ]
 
 
@@ -130,6 +131,6 @@ for i, row in enumerate(ROWS):
 
 parts.append("</svg>")
 svg = "".join(parts)
-with open(OUT, "w") as f:
+with open(OUT, "w", encoding="utf-8") as f:
     f.write(svg)
 print("wrote", OUT, len(svg), "bytes;", W, "x", H, "content_bottom", round(y))
