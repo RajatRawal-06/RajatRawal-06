@@ -22,7 +22,7 @@
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=30&lines=Building+AI+systems+that+think%2C+learn%2C+and+protect" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=750&height=35&lines=Building+AI+systems+that+think%2C+learn%2C+and+protect" alt="Typing SVG" />
 </div>
 
 <br>
