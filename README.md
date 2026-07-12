@@ -9,7 +9,7 @@
 
 ## Rajat Rawal
 
-**AI/ML Engineer &#183; Open Source Contributor &#183; CS @ DTU**
+**AI/ML &#183; Generative AI &#183; Open Source Contributor &#183; CS @ DTU**
 
 <br>
 
@@ -22,7 +22,7 @@
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=750&height=35&lines=Building+AI+systems+that+think%2C+learn%2C+and+protect" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&repeat=true&width=500&height=30&lines=Generative+AI+%7C+RAG+%7C+LLMs;Building+systems+that+think+and+protect;Open+Source+%7C+Deep+Learning+%7C+NLP" alt="Typing SVG" />
 </div>
 
 <br>
@@ -113,10 +113,17 @@ AI&#8209;augmented indoor navigation for hospitals. Real&#8209;time crowd densit
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+
+**Generative AI &#183; LLMs**
+<br>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Llama-0467DF?style=flat-square&logo=meta&logoColor=white" />
+<img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG_Pipelines-7C3AED?style=flat-square&logoColor=white" />
 
 **Frameworks &#183; Tools**
 <br>
@@ -132,7 +139,7 @@ AI&#8209;augmented indoor navigation for hospitals. Real&#8209;time crowd densit
 
 **Specializations**
 <br>
-`LLMs` `Transformers` `RAG Pipelines` `Computer Vision` `NLP` `RLHF` `CNN` `RNN` `LSTM` `GRU` `Autoencoders` `CatBoost` `LightGBM`
+`Generative AI` `LLMs` `Transformers` `RAG Pipelines` `Prompt Engineering` `Computer Vision` `NLP` `RLHF` `CNN` `RNN` `LSTM` `GRU` `Autoencoders` `CatBoost` `LightGBM`
 
 <br>
 

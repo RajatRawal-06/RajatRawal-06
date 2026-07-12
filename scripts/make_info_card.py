@@ -49,7 +49,7 @@ ROWS = [
     ("host",),
     ("kv", "Now", "Open Source Contributor @ GSSoC 2026"),
     ("kv", "Edu", "B.Tech CSE, DTU '29"),
-    ("kv", "Focus", "AI/ML \u00b7 Deep Learning \u00b7 NLP"),
+    ("kv", "Focus", "AI/ML \u00b7 Generative AI \u00b7 NLP"),
     ("gap",),
     ("sec", "Stack"),
     ("kv", "Languages", "Python, C, C++, SQL"),
