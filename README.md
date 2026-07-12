@@ -22,7 +22,7 @@
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&repeat=true&width=500&height=30&lines=Generative+AI+%7C+RAG+%7C+LLMs;Building+systems+that+think+and+protect;Open+Source+%7C+Deep+Learning+%7C+NLP" alt="Typing SVG" />
+<img src="./aurora.svg" width="860" alt="Aurora Header" />
 </div>
 
 <br>
