@@ -41,20 +41,20 @@
     <!-- The Aurora Waves -->
     <g filter="url(#blur)">
       <!-- Main ambient wave -->
-      <path fill="none" stroke="url(#aurora)" stroke-width="60" stroke-linecap="round" opacity="0.6">
+      <path fill="none" stroke="url(#aurora)" stroke-width="70" stroke-linecap="round" opacity="0.7">
         <animate attributeName="d" 
-          values="M-100,180 Q258,140 516,180 T960,170;
-                  M-100,160 Q258,190 516,160 T960,180;
-                  M-100,180 Q258,140 516,180 T960,170" 
+          values="M-200,165 Q100,120 430,165 T1100,165;
+                  M-200,165 Q400,120 430,165 T1100,165;
+                  M-200,165 Q100,120 430,165 T1100,165" 
           dur="14s" repeatCount="indefinite" />
       </path>
       
       <!-- Secondary overlapping wave -->
-      <path fill="none" stroke="url(#aurora)" stroke-width="40" stroke-linecap="round" opacity="0.5">
+      <path fill="none" stroke="url(#aurora)" stroke-width="50" stroke-linecap="round" opacity="0.5">
         <animate attributeName="d" 
-          values="M-100,150 Q344,190 602,150 T960,160;
-                  M-100,170 Q344,140 602,170 T960,150;
-                  M-100,150 Q344,190 602,150 T960,160" 
+          values="M-200,160 Q600,200 430,160 T1100,160;
+                  M-200,160 Q300,200 430,160 T1100,160;
+                  M-200,160 Q600,200 430,160 T1100,160" 
           dur="19s" repeatCount="indefinite" />
       </path>
     </g>
