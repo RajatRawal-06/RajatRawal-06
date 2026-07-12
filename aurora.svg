@@ -16,8 +16,8 @@
     </linearGradient>
 
     <!-- Strong Blur -->
-    <filter id="blur" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="40" result="blur"/>
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="60" result="blur"/>
     </filter>
     
     <!-- Text Shadow -->
@@ -40,22 +40,22 @@
 
     <!-- The Aurora Waves -->
     <g filter="url(#blur)">
-      <!-- Main thick wave -->
-      <path fill="none" stroke="url(#aurora)" stroke-width="90" stroke-linecap="round" opacity="0.8">
+      <!-- Main ambient wave -->
+      <path fill="none" stroke="url(#aurora)" stroke-width="60" stroke-linecap="round" opacity="0.6">
         <animate attributeName="d" 
-          values="M-100,210.0 Q215.0,60.0 430.0,180.0 T960,120.0;
-                  M-100,120.0 Q215.0,240.0 430.0,90.0 T960,210.0;
-                  M-100,210.0 Q215.0,60.0 430.0,180.0 T960,120.0" 
-          dur="12s" repeatCount="indefinite" />
+          values="M-100,180 Q258,140 516,180 T960,170;
+                  M-100,160 Q258,190 516,160 T960,180;
+                  M-100,180 Q258,140 516,180 T960,170" 
+          dur="14s" repeatCount="indefinite" />
       </path>
       
       <!-- Secondary overlapping wave -->
-      <path fill="none" stroke="url(#aurora)" stroke-width="50" stroke-linecap="round" opacity="0.9">
+      <path fill="none" stroke="url(#aurora)" stroke-width="40" stroke-linecap="round" opacity="0.5">
         <animate attributeName="d" 
-          values="M-100,90.0 Q258.0,240.0 516.0,60.0 T960,210.0;
-                  M-100,210.0 Q258.0,60.0 516.0,240.0 T960,90.0;
-                  M-100,90.0 Q258.0,240.0 516.0,60.0 T960,210.0" 
-          dur="17s" repeatCount="indefinite" />
+          values="M-100,150 Q344,190 602,150 T960,160;
+                  M-100,170 Q344,140 602,170 T960,150;
+                  M-100,150 Q344,190 602,150 T960,160" 
+          dur="19s" repeatCount="indefinite" />
       </path>
     </g>
 
